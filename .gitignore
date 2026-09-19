@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#add
+dataset/mnist.pkl
+dataset/*.gz
